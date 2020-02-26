@@ -22,7 +22,7 @@ var APP = {
 		sound.setLoop( true );
 		sound.setVolume( 0.5 );
 		sound.play();
-});
+
 		
 		var events = {};
 
