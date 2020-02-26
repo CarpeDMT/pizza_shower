@@ -9,9 +9,6 @@ var APP = {
 		var loader = new THREE.ObjectLoader();
 		var camera, scene, renderer;
 
-		
-
-		
 		var events = {};
 
 		var dom = document.createElement( 'div' );
